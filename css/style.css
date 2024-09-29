@@ -88,3 +88,12 @@ body{
     font-family:inherit;
   }
 }
+.registro-link {
+  text-decoration: none;
+  color: #337ab7;
+  cursor: pointer;
+}
+
+.registro-link:hover {
+  color: #23527c;
+}
